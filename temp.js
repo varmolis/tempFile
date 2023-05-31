@@ -106,12 +106,7 @@ var rt = function (e) {
 
                                 return t
                             }()
-                        },
-
-                        ----------------------------------
-
-
-                            {
+                        }, {
                             key: "customUpload", value: function () {
                                 var e = Object(d["a"])(regeneratorRuntime.mark((function e(t) {
                                     var n, r, o, i, a, s, u, c, l, d, f, p, h, m, v, _;
